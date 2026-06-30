@@ -1,0 +1,15 @@
+{
+	"name": "adf-Uberproject-dev-saai",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b214609d-e234-4cc2-b0fc-671e6b9834bc",
+		"tenantId": "8e90e43e-d59c-432b-b0b5-80314490943d"
+	}
+}
